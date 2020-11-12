@@ -1,5 +1,4 @@
 # Sudoku Solver w/ Backtracking
-# Matthew Rainey 2020
 
 
 board = [
